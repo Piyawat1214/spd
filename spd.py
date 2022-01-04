@@ -1,4 +1,3 @@
-import os
 lfrom requests import Session,post,get
 from re import search
 from concurrent.futures import ThreadPoolExecutor 
